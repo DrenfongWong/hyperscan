@@ -56,7 +56,7 @@ pcre/pcregrep
 pcre/pcretest
 
 # Autoconf/automake/libtool noise
-Makefile
+# Makefile
 Makefile.in
 aclocal.m4
 config.cache

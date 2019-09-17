@@ -1372,3 +1372,6 @@ endif ()
 if(NOT WIN32)
     add_subdirectory(examples)
 endif()
+
+include(Packager)
+make_packages()

@@ -41,3 +41,11 @@ sending email to the list, or by creating an issue on Github.
 If you wish to contact the Hyperscan team at Intel directly, without posting
 publicly to the mailing list, send email to
 [hyperscan@intel.com](mailto:hyperscan@intel.com).
+
+# Build Package
+
+$ make
+$ make install-dep
+$ make build-package
+
+Package can be found in ./build-root/build-package/, named with hyperscan*.rpm. 
